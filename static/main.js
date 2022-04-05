@@ -4,3 +4,7 @@
 function hello() {
     alert('hello');
 }
+
+function hekkkkkk(){
+    console.log(1);
+}
